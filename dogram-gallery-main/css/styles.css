@@ -118,7 +118,7 @@ h2 {
   background-color: azure;
   text-transform: uppercase;
   letter-spacing: 8px;
-  font-size: bold;
+  font-weight: bold;
 }
 @media screen and (min-width: 500px) {
   .main {
